@@ -1,5 +1,5 @@
 
-// complile using: g++ 01_emptyWindow.cpp -o 01_emptyWindow -framework OpenGL -lGLUT
+// complile using: g++ 01a_emptyWindow.cpp -o 01a_emptyWindow -framework OpenGL -lGLUT
 
 #include <GL/freeglut.h>
 
